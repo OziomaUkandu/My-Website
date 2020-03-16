@@ -1,2 +1,2 @@
 # My-Website
-The first website I've ever made
+The first front-end website I've ever made
